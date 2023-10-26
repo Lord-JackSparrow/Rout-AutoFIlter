@@ -432,7 +432,7 @@ async def start(client, message):
             InlineKeyboardButton("How To Verify", url="https://t.me/+huj2Ww1QdS8wZGFl")
         ],[
           InlineKeyboardButton("Buy Premium", url="https://t.me/+JiEirfMzVkAwYWM1")  
-        ]
+        ]]
         await message.reply_text(
             text="<b>Yᴏᴜ ᴀʀᴇ ɴᴏᴛ ᴠᴇʀɪғɪᴇᴅ!\nKɪɴᴅʟʏ ᴠᴇʀɪғʏ ᴛᴏ ᴄᴏɴᴛɪɴᴜᴇ Sᴏ ᴛʜᴀᴛ ʏᴏᴜ ᴄᴀɴ ɢᴇᴛ ᴀᴄᴄᴇss ᴛᴏ ᴜɴʟɪᴍɪᴛᴇᴅ ᴍᴏᴠɪᴇs ᴜɴᴛɪʟ 12 ʜᴏᴜʀs ғʀᴏᴍ ɴᴏᴡ !!\n\nआप verified नहीं हैं !\nकृपया जारी रखने के लिए verify करें ताकि आप अब से 12 घंटे तक बिना रुकावट के unlimited फिल्में  प्राप्त कर सकें !!</b>",
             protect_content=True,
